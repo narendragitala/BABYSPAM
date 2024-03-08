@@ -1,8 +1,8 @@
 
 {
-    "name": "KING-𝚂𝙿𝙰𝙼-𝙱𝙾𝚃",
+    "name": "NARU-𝚂𝙿𝙰𝙼-𝙱𝙾𝚃",
     "description": "MOST POWERFUL + STABLE SPAMBOTS",
-    "logo": "https://te.legra.ph/file/2e2f78610814092d61103.jpg",
+    "logo": "https://telegra.ph/file/84870d6d89b893e59c5f0.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -10,23 +10,23 @@
         "deadlybot",
         "SpamBots"
     ],
-    "repository": "https://github.com/WCGKING/KINGSPAM",
-    "website": "https://t.me/BRANDED_KHUSHI",
-    "success_url": "https://t.me/BRANDED_WORLD",
+    "repository": "https://github.com/narendragitala/BABYSPAM",
+    "website": "https://t.me/ALL_ABOUT_NARU",
+    "success_url": "https://t.me/BROKENSHAYRI1",
     "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
-        "value": "26319490",
+        "value": "23386496",
         "required": true
       },
       "ALIVE_PIC": {
         "description": "your alive pic or video",
-        "value": "https://te.legra.ph/file/2e2f78610814092d61103.jpg",
-        "required": false
+        "value": "",
+        "required": true
       },
       "API_HASH": {
         "description": "Fill Api hash Take this value from My.telegram.org",
-        "value": "e99518c312bd6fcb3e8643bf55e3a339",
+        "value": "7b474ff5cd496bcb9071beaa863273fc",
         "required": true
       },
      "CMD_HNDLR": {
@@ -86,7 +86,7 @@
       },
       "OWNER_ID": {
             "description": "owner Id",
-            "value": "6258877205",
+            "value": "5473771943",
             "required": true
         }
     },
