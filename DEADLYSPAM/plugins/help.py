@@ -7,9 +7,9 @@ from datetime import datetime
  
 hl = config.CMD_HNDLR
  
-HELP_PIC = "https://te.legra.ph/file/2e2f78610814092d61103.jpg"
+HELP_PIC = "https://telegra.ph/file/84870d6d89b893e59c5f0.jpg"
 
-DEAD_HELP = "🔥 ᴋɪɴɢ x ᴛᴇᴀᴍ ʙʀᴀɴᴅᴇᴅ🔥\n\n"
+DEAD_HELP = "🔥 ɴᴀʀᴜᴊᴀᴀᴛ x sᴘᴀᴍ 🔥\n\n"
  
 DEAD_HELP += f"__ᴄᴍɴᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴅᴇᴀᴅʟʏ ʙᴏᴛ__\n\n"
 
